@@ -1,6 +1,6 @@
 # 📓 Minimi Daily Summaries
 
-A personal activity log — automatically generated each morning from [Minimi](https://minimi.app), capturing everything that happened the day before across messages, email, documents, browsing, and calendar.
+A personal activity log — automatically generated each morning from [Minimi](https://www.projectminimi.com/), capturing everything that happened the day before across messages, email, documents, browsing, and calendar.
 
 ---
 
